@@ -3,7 +3,7 @@
 ### About
 - 🔢 Senior Software Engineer, since 2013 in the Industry.
 - 🕹 Currently working developing **Video Games** as a contractor, working remotely from 🇧🇷.
-- 🔧 Previously worked at **Wooga** - Berlin 🇩🇪 for 5 years as full time.
+- 🔧 Previously worked at **Wooga** - Berlin 🇩🇪 for 5 years as full time employee.
 - 🔨 Also worked at **Tapps Games** - São Paulo, and **LSBD** - Fortaleza.
 - 💻 I use `Unity3D`, `C#` and `Git` daily.
 - ⚙️ Also use to some extent: `C`, `C++`, `Typescript`, `Javascript`, `OpenGL`, `Direct3D`, `Google Cloud`, `Lua` and `Python` for projects.
